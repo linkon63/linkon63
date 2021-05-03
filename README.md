@@ -26,12 +26,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-abdul-ahad-linkon-5988161b8/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="https://www.linkedin.com/in/md-abdul-ahad-linkon-5988161b8/" height="30" width="40" /></a>
- <a href="https://github.com/linkon63" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="https://github.com/linkon63" height="30" width="40" /></a>
-  
-  <a href="https://www.facebook.com/lin.kon.63/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/124/124010.png" alt="https://image.flaticon.com/icons/png/512/124/124010.png" height="30" width="40" /></a>
-  
-<img align="center" src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" alt="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" height="30" width="40" />
-m.alinkon10@gmail.com
+ <a href="https://github.com/linkon63" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="https://github.com/linkon63" height="30" width="40" /></a><a href="https://www.facebook.com/lin.kon.63/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/124/124010.png" alt="https://image.flaticon.com/icons/png/512/124/124010.png" height="30" width="40" /></a>
+ <a href="m.alinkon10@gmail.com"><img align="center" src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" alt="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" height="30" width="40" />
+</a>
   
 </p>
 
