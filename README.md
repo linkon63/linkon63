@@ -5,7 +5,6 @@
 <h4 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h4>
 <h3 align="center">A passionate frontend developer</h3>
 <p align="center">Welcome to my GitHub </br> I'm LinKon, Fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png" width="13"/> <b>Bangladesh</b>, currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png" width="13"/> <b>Bangladesh</b>. </p>
-<h3>Things I code with</h3>
 <p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linkon63&label=Profile%20views&color=0e75b6&style=flat" alt="linkon63" /> </p>
@@ -14,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce**
+- 🔭 I’m currently working on **E-commerce Website**
 
 - 🌱 I’m currently learning **React Native and Web Security**
 
