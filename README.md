@@ -1,7 +1,6 @@
 <!--
 **linkon63/linkon63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Linkon</h1>
 <h4 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h4>
 <h3 align="center">A passionate frontend developer</h3>
