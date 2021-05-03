@@ -1,9 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-
-<p>Welcome to my GitHub </br> I'm LinKon, Fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png" width="13"/> <b>Bangladesh</b>, currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png" width="13"/> <b>Bangladesh</b>. </p>
-<h3>Things I code with</h3>
-<p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
@@ -12,7 +7,11 @@
 -->
 Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Linkon</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h4 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h4>
+<h3 align="center">A passionate frontend developer</h3>
+<p align="center">Welcome to my GitHub </br> I'm LinKon, Fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png" width="13"/> <b>Bangladesh</b>, currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png" width="13"/> <b>Bangladesh</b>. </p>
+<h3>Things I code with</h3>
+<p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linkon63&label=Profile%20views&color=0e75b6&style=flat" alt="linkon63" /> </p>
 
