@@ -13,19 +13,19 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce Website**
+- 🔭 I’m currently working on **Company Project**
 
-- 🌱 I’m currently learning **React Native and Web Security**
+- 🌱 I’m currently learning **Machine Learning and Security**
 
-- 💬 Ask me about **React, Vue JS , React Native, JavaScript**
+- 💬 Ask me about **React, Vue JS , React Native, JavaScript, Node JS, Python and OOP concept **
 
 - 📫 How to reach me **m.alinkon10@gmail.com**
 
-- ⚡ Fun fact **I think I love to learn new fact**
+- ⚡ Fun fact **I love to learn new fact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-abdul-ahad-linkon-5988161b8/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="https://www.linkedin.com/in/md-abdul-ahad-linkon-5988161b8/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-abdul-ahad-linkon-5988161b8/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="https://www.linkedin.com/in/md-abdul-ahad-linkon-5988161b8/" height="30" width="40" /></a>
  <a href="https://github.com/linkon63" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="https://github.com/linkon63" height="30" width="40" /></a><a href="https://www.facebook.com/lin.kon.63/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/124/124010.png" alt="https://image.flaticon.com/icons/png/512/124/124010.png" height="30" width="40" /></a>
  <a href="m.alinkon10@gmail.com"><img align="center" src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" alt="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" height="30" width="40" />
 </a>
