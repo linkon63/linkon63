@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Security**
 
-- 💬 Ask me about **React, Vue JS , React Native, JavaScript, Node JS, Python and OOP concept **
+- 💬 Ask me about **Problem solving, MERN, Vue JS , React Native, JavaScript, C++ , OOP concept, SQL **
 
 - 📫 How to reach me **m.alinkon10@gmail.com**
 
