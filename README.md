@@ -3,8 +3,8 @@
 -->
 <h1 align="center">Hi 👋, I'm Linkon</h1>
 <h4 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h4>
-<h3 align="center">A passionate Full-Stack Developer</h3>
-<p align="center">Welcome to my GitHub </br> I'm LinKon, Full-Stack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png" width="13"/> <b>Bangladesh</b>, currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png" width="13"/> <b>Bangladesh</b>. </p>
+<h3 align="center">A passionate Software Engineer</h3>
+<p align="center">Welcome to my GitHub </br> I'm LinKon, Software Engineer from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png" width="13"/> <b>Bangladesh</b>, currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png" width="13"/> <b>Bangladesh</b>. </p>
 <p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=linkon63&label=Profile%20views&color=0e75b6&style=flat" alt="linkon63" /> </p>
@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Security**
 
-- 💬 Ask me about **Problem solving, MERN, Vue JS , React Native, JavaScript, C++ , OOP concept, SQL **
+- 💬 Ask me about **Problem solving, MERN, Vue JS, Laravel , React Native, JavaScript, PHP ,C++ , OOP concept, SQL **
 
 - 📫 How to reach me **m.alinkon10@gmail.com**
 
