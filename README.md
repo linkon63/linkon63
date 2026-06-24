@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/md-abdul-ahad-linkon">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://dev-kon-portfolio.web.app">
+  <a href="https://linkonsmind.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=Firefox&logoColor=white" />
   </a>
   <a href="mailto:m.alinkon10@gmail.com">
